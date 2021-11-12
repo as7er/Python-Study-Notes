@@ -8,11 +8,14 @@
 
 执行安装向导的时候，必须勾选“Add Python 3.x to PATH”选项
 
-![Untitled](2%20Python%20%E4%B8%8B%E8%BD%BD%E3%80%81%E5%AE%89%E8%A3%85%E3%80%81%E9%85%8D%E7%BD%AE%E5%92%8C%E7%AC%AC%E4%B8%80%E4%B8%AAPython%E7%A8%8B%E5%BA%8F%20f8bbb88a87d9414a8b2157a6c09146b1/Untitled.png)
+![](https://gitee.com/jackfrued/mypic/raw/master/20210719223007.png)
 
-![Untitled](2%20Python%20%E4%B8%8B%E8%BD%BD%E3%80%81%E5%AE%89%E8%A3%85%E3%80%81%E9%85%8D%E7%BD%AE%E5%92%8C%E7%AC%AC%E4%B8%80%E4%B8%AAPython%E7%A8%8B%E5%BA%8F%20f8bbb88a87d9414a8b2157a6c09146b1/Untitled%201.png)
+![](https://gitee.com/jackfrued/mypic/raw/master/20210719223021.png)
 
-![Untitled](2%20Python%20%E4%B8%8B%E8%BD%BD%E3%80%81%E5%AE%89%E8%A3%85%E3%80%81%E9%85%8D%E7%BD%AE%E5%92%8C%E7%AC%AC%E4%B8%80%E4%B8%AAPython%E7%A8%8B%E5%BA%8F%20f8bbb88a87d9414a8b2157a6c09146b1/Untitled%202.png)
+![](https://gitee.com/jackfrued/mypic/raw/master/20210719223317.png)
+
+![](https://gitee.com/jackfrued/mypic/raw/master/20210719223332.png)
+
 
 安装完成后可以打开Windows的“命令行提示符”工具（或“PowerShell”）并输入 python —version 检查是否提示版本号
 
